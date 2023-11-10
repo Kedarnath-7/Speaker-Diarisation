@@ -1,6 +1,6 @@
 # Speaker-Diarisation
 
-# pyannote-whisper
+pyannote-whisper
 
 Run speaker diarization based on whisper and pyannote.audio.
 
